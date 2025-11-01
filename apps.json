@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400&h=400&fit=crop",
+    "image": "https://picsum.photos/seed/forest/400/400",
     "title": "Forest: Focus For Productivity",
     "companyName": "Seekrtech",
     "description": "Stay focused, be present. Plant a tree when you focus.",
@@ -19,10 +19,10 @@
   },
   {
     "id": 2,
-    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400&h=400&fit=crop",
+    "image": "https://picsum.photos/seed/smplan/400/400",
     "title": "SmPlan:ToDo List With Reminder",
     "companyName": "SmPlan Inc.",
-    "description": "Simple and powerful task manager to organize your daily tasks.",
+    "description": "Simple and powerful task manager.",
     "size": 28.4,
     "reviews": 89000,
     "ratingAvg": 5,
@@ -37,10 +37,10 @@
   },
   {
     "id": 3,
-    "image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=400&h=400&fit=crop",
+    "image": "https://picsum.photos/seed/flip/400/400",
     "title": "FLIP - Focus Timer For Study",
     "companyName": "Flip Studios",
-    "description": "Focus timer app to help you concentrate on study and work.",
+    "description": "Focus timer app for better concentration.",
     "size": 45.2,
     "reviews": 134000,
     "ratingAvg": 5,
@@ -55,10 +55,10 @@
   },
   {
     "id": 4,
-    "image": "https://images.unsplash.com/photo-1574169208507-84376144848b?w=400&h=400&fit=crop",
+    "image": "https://picsum.photos/seed/pomocat/400/400",
     "title": "Pomocat - Cute Pomodoro Timer",
     "companyName": "Pomocat Team",
-    "description": "Cute and adorable Pomodoro timer with a lovely cat companion.",
+    "description": "Cute Pomodoro timer with cat companion.",
     "size": 52.8,
     "reviews": 256000,
     "ratingAvg": 5,
@@ -73,10 +73,10 @@
   },
   {
     "id": 5,
-    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=400&h=400&fit=crop",
+    "image": "https://picsum.photos/seed/timeplanner/400/400",
     "title": "Time Planner: Schedule & Tasks",
     "companyName": "Time Master LLC",
-    "description": "All-in-one planner to organize your schedule and manage tasks.",
+    "description": "All-in-one planner for productivity.",
     "size": 38.9,
     "reviews": 178000,
     "ratingAvg": 5,
@@ -91,10 +91,10 @@
   },
   {
     "id": 6,
-    "image": "https://images.unsplash.com/photo-1495364141860-b0d03eccd065?w=400&h=400&fit=crop",
+    "image": "https://picsum.photos/seed/morninghabits/400/400",
     "title": "Morning Habits - Daily Routine",
     "companyName": "Habit Tracker Pro",
-    "description": "Build better morning habits and create a powerful daily routine.",
+    "description": "Build better morning habits daily.",
     "size": 41.3,
     "reviews": 145000,
     "ratingAvg": 5,
@@ -109,10 +109,10 @@
   },
   {
     "id": 7,
-    "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=400&h=400&fit=crop",
+    "image": "https://picsum.photos/seed/focusplant/400/400",
     "title": "Focus Plant: Pomodoro Forest",
     "companyName": "Focus Apps Inc.",
-    "description": "Grow your focus forest while staying productive with Pomodoro technique.",
+    "description": "Grow your focus forest with Pomodoro.",
     "size": 47.6,
     "reviews": 203000,
     "ratingAvg": 5,
@@ -127,10 +127,10 @@
   },
   {
     "id": 8,
-    "image": "https://images.unsplash.com/photo-1508873696983-2dfd5898f08b?w=400&h=400&fit=crop",
+    "image": "https://picsum.photos/seed/alarmy/400/400",
     "title": "Alarmy - Alarm Clock & Sleep",
     "companyName": "Delight Room Co.",
-    "description": "World's most annoying alarm app that will definitely wake you up.",
+    "description": "Most annoying alarm that wakes you up.",
     "size": 56.7,
     "reviews": 892000,
     "ratingAvg": 5,
@@ -144,3 +144,4 @@
     ]
   }
 ]
+
