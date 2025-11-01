@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "image": "https://via.placeholder.com/150",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "description": "Learn languages for free with fun, bite-sized lessons. Practice speaking, reading, listening and writing to build your vocabulary and grammar skills.",
+    "size": 45.2,
+    "reviews": 125000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 67500 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://via.placeholder.com/150",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "description": "Millions of songs and podcasts. No credit card needed. Stream music and podcasts, discover albums, playlists or even single songs for free on your mobile.",
+    "size": 89.5,
+    "reviews": 890000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 18000 },
+      { "name": "2 star", "count": 27000 },
+      { "name": "3 star", "count": 89000 },
+      { "name": "4 star", "count": 267000 },
+      { "name": "5 star", "count": 489000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://via.placeholder.com/150",
+    "title": "Notion",
+    "companyName": "Notion Labs Inc.",
+    "description": "One workspace. Every team. All-in-one workspace for notes, tasks, wikis, and databases. Collaborate with your team in real-time.",
+    "size": 67.8,
+    "reviews": 245000,
+    "ratingAvg": 4.8,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 2450 },
+      { "name": "2 star", "count": 4900 },
+      { "name": "3 star", "count": 24500 },
+      { "name": "4 star", "count": 73500 },
+      { "name": "5 star", "count": 139650 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://via.placeholder.com/150",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "description": "Design anything. Publish anywhere. Create stunning designs for social media, presentations, posters, videos, logos and more.",
+    "size": 112.3,
+    "reviews": 567000,
+    "ratingAvg": 4.6,
+    "downloads": 7800000,
+    "ratings": [
+      { "name": "1 star", "count": 11340 },
+      { "name": "2 star", "count": 17010 },
+      { "name": "3 star", "count": 68040 },
+      { "name": "4 star", "count": 170100 },
+      { "name": "5 star", "count": 300510 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://via.placeholder.com/150",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "description": "Pure instant messaging — simple, fast, secure, and synced across all your devices. Over 700 million active users in over 180 countries.",
+    "size": 78.4,
+    "reviews": 1200000,
+    "ratingAvg": 4.4,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 48000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 360000 },
+      { "name": "5 star", "count": 612000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://via.placeholder.com/150",
+    "title": "Headspace",
+    "companyName": "Headspace Inc.",
+    "description": "Meditation and Sleep Made Simple. Find peace in a busy world with guided meditations, sleep sounds, and mindfulness exercises.",
+    "size": 92.1,
+    "reviews": 189000,
+    "ratingAvg": 4.7,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 3780 },
+      { "name": "2 star", "count": 5670 },
+      { "name": "3 star", "count": 18900 },
+      { "name": "4 star", "count": 56700 },
+      { "name": "5 star", "count": 103950 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://via.placeholder.com/150",
+    "title": "Trello",
+    "companyName": "Atlassian",
+    "description": "Organize anything, together. Trello is a collaboration tool that organizes your projects into boards and helps teams work more collaboratively.",
+    "size": 54.6,
+    "reviews": 345000,
+    "ratingAvg": 4.5,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 10350 },
+      { "name": "2 star", "count": 13800 },
+      { "name": "3 star", "count": 41400 },
+      { "name": "4 star", "count": 103500 },
+      { "name": "5 star", "count": 175950 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://via.placeholder.com/150",
+    "title": "Adobe Lightroom",
+    "companyName": "Adobe Inc.",
+    "description": "Photo editor and camera. Create incredible photos anywhere with all-in-one photo editing tools including presets and AI-powered features.",
+    "size": 156.7,
+    "reviews": 678000,
+    "ratingAvg": 4.3,
+    "downloads": 8900000,
+    "ratings": [
+      { "name": "1 star", "count": 47460 },
+      { "name": "2 star", "count": 54240 },
+      { "name": "3 star", "count": 101700 },
+      { "name": "4 star", "count": 203400 },
+      { "name": "5 star", "count": 271200 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://via.placeholder.com/150",
+    "title": "Calm",
+    "companyName": "Calm.com Inc.",
+    "description": "The #1 App for Meditation and Sleep. Join millions experiencing better sleep, lower stress, and less anxiety with Calm.",
+    "size": 83.2,
+    "reviews": 456000,
+    "ratingAvg": 4.6,
+    "downloads": 6200000,
+    "ratings": [
+      { "name": "1 star", "count": 9120 },
+      { "name": "2 star", "count": 13680 },
+      { "name": "3 star", "count": 45600 },
+      { "name": "4 star", "count": 136800 },
+      { "name": "5 star", "count": 250800 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://via.placeholder.com/150",
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "description": "Capture ideas when inspiration strikes. Bring your notes, tasks, and schedules together to get things done more easily.",
+    "size": 98.4,
+    "reviews": 523000,
+    "ratingAvg": 4.2,
+    "downloads": 5800000,
+    "ratings": [
+      { "name": "1 star", "count": 36610 },
+      { "name": "2 star", "count": 47070 },
+      { "name": "3 star", "count": 104600 },
+      { "name": "4 star", "count": 157380 },
+      { "name": "5 star", "count": 177340 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://via.placeholder.com/150",
+    "title": "Grammarly",
+    "companyName": "Grammarly Inc.",
+    "description": "Write with confidence across documents, email, and social media. Real-time grammar and spelling checker.",
+    "size": 42.8,
+    "reviews": 289000,
+    "ratingAvg": 4.7,
+    "downloads": 3900000,
+    "ratings": [
+      { "name": "1 star", "count": 5780 },
+      { "name": "2 star", "count": 8670 },
+      { "name": "3 star", "count": 28900 },
+      { "name": "4 star", "count": 86700 },
+      { "name": "5 star", "count": 158950 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://via.placeholder.com/150",
+    "title": "Forest",
+    "companyName": "Seekrtech",
+    "description": "Stay focused, be present. Plant a tree when you focus. If you leave the app, your tree dies. Grow your forest and stay productive.",
+    "size": 35.6,
+    "reviews": 167000,
+    "ratingAvg": 4.8,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 1670 },
+      { "name": "2 star", "count": 3340 },
+      { "name": "3 star", "count": 16700 },
+      { "name": "4 star", "count": 50100 },
+      { "name": "5 star", "count": 95190 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://via.placeholder.com/150",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "description": "Where work happens. Connect with your team, organize conversations, and get work done from anywhere.",
+    "size": 125.3,
+    "reviews": 789000,
+    "ratingAvg": 4.4,
+    "downloads": 9500000,
+    "ratings": [
+      { "name": "1 star", "count": 39450 },
+      { "name": "2 star", "count": 47340 },
+      { "name": "3 star", "count": 94680 },
+      { "name": "4 star", "count": 236700 },
+      { "name": "5 star", "count": 370830 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://via.placeholder.com/150",
+    "title": "Todoist",
+    "companyName": "Doist Inc.",
+    "description": "Organize your work and life. Trusted by millions, Todoist is the best online task management app and to-do list.",
+    "size": 48.9,
+    "reviews": 234000,
+    "ratingAvg": 4.6,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 4680 },
+      { "name": "2 star", "count": 7020 },
+      { "name": "3 star", "count": 28080 },
+      { "name": "4 star", "count": 70200 },
+      { "name": "5 star", "count": 124020 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://via.placeholder.com/150",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "description": "Video conferencing, cloud phone, webinars, chat, virtual events. Meet securely with up to 1000 participants.",
+    "size": 145.7,
+    "reviews": 1340000,
+    "ratingAvg": 4.3,
+    "downloads": 18000000,
+    "ratings": [
+      { "name": "1 star", "count": 93800 },
+      { "name": "2 star", "count": 107200 },
+      { "name": "3 star", "count": 201000 },
+      { "name": "4 star", "count": 402000 },
+      { "name": "5 star", "count": 536000 }
+    ]
+  }
+]
