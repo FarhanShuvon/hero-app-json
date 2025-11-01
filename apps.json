@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "image": "https://play-lh.googleusercontent.com/PCdJT97ndb5P4fOrz0LT-CicfmJzJW4MjYbuGhWL4yj7qPp4gNNl2TgYG-0Ru8YjHw=w240-h480",
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400&h=400&fit=crop",
     "title": "Forest: Focus For Productivity",
     "companyName": "Seekrtech",
-    "description": "Stay focused, be present. Plant a tree when you focus. If you leave the app, your tree dies.",
+    "description": "Stay focused, be present. Plant a tree when you focus.",
     "size": 35.6,
     "reviews": 167000,
     "ratingAvg": 5,
@@ -19,10 +19,10 @@
   },
   {
     "id": 2,
-    "image": "https://play-lh.googleusercontent.com/7cKJxBBrQbGLOqYL9OwRGBc_sLxH_5T8eR1C9OqgDR8WFLkDPr9WoXaWbx-9L5wKgQ=w240-h480",
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400&h=400&fit=crop",
     "title": "SmPlan:ToDo List With Reminder",
     "companyName": "SmPlan Inc.",
-    "description": "Simple and powerful task manager to organize your daily tasks and increase productivity.",
+    "description": "Simple and powerful task manager to organize your daily tasks.",
     "size": 28.4,
     "reviews": 89000,
     "ratingAvg": 5,
@@ -37,10 +37,10 @@
   },
   {
     "id": 3,
-    "image": "https://play-lh.googleusercontent.com/YVwTBN0g7rGhBMK9BH4BgPLBK0vYdqK4qdvqXm7aDG9Ht0qQ1O5a7W1Z2c3q4r5s6t=w240-h480",
+    "image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=400&h=400&fit=crop",
     "title": "FLIP - Focus Timer For Study",
     "companyName": "Flip Studios",
-    "description": "Focus timer app to help you concentrate on study and work using Pomodoro technique.",
+    "description": "Focus timer app to help you concentrate on study and work.",
     "size": 45.2,
     "reviews": 134000,
     "ratingAvg": 5,
@@ -55,10 +55,10 @@
   },
   {
     "id": 4,
-    "image": "https://play-lh.googleusercontent.com/K3Kl7w1m2n3o4p5q6r7s8t9u0v1w2x3y4z5a6b7c8d9e0f1g2h3i4j5k6l7m8n9o=w240-h480",
+    "image": "https://images.unsplash.com/photo-1574169208507-84376144848b?w=400&h=400&fit=crop",
     "title": "Pomocat - Cute Pomodoro Timer",
     "companyName": "Pomocat Team",
-    "description": "Cute and adorable Pomodoro timer with a lovely cat companion to help you stay focused.",
+    "description": "Cute and adorable Pomodoro timer with a lovely cat companion.",
     "size": 52.8,
     "reviews": 256000,
     "ratingAvg": 5,
@@ -73,10 +73,10 @@
   },
   {
     "id": 5,
-    "image": "https://play-lh.googleusercontent.com/A1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f=w240-h480",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=400&h=400&fit=crop",
     "title": "Time Planner: Schedule & Tasks",
     "companyName": "Time Master LLC",
-    "description": "All-in-one planner to organize your schedule, manage tasks, and boost productivity.",
+    "description": "All-in-one planner to organize your schedule and manage tasks.",
     "size": 38.9,
     "reviews": 178000,
     "ratingAvg": 5,
@@ -91,10 +91,10 @@
   },
   {
     "id": 6,
-    "image": "https://play-lh.googleusercontent.com/B2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2g=w240-h480",
+    "image": "https://images.unsplash.com/photo-1495364141860-b0d03eccd065?w=400&h=400&fit=crop",
     "title": "Morning Habits - Daily Routine",
     "companyName": "Habit Tracker Pro",
-    "description": "Build better morning habits and create a powerful daily routine for success.",
+    "description": "Build better morning habits and create a powerful daily routine.",
     "size": 41.3,
     "reviews": 145000,
     "ratingAvg": 5,
@@ -109,10 +109,10 @@
   },
   {
     "id": 7,
-    "image": "https://play-lh.googleusercontent.com/C3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2g3h=w240-h480",
+    "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=400&h=400&fit=crop",
     "title": "Focus Plant: Pomodoro Forest",
     "companyName": "Focus Apps Inc.",
-    "description": "Grow your focus forest while staying productive with Pomodoro technique and gamification.",
+    "description": "Grow your focus forest while staying productive with Pomodoro technique.",
     "size": 47.6,
     "reviews": 203000,
     "ratingAvg": 5,
@@ -127,10 +127,10 @@
   },
   {
     "id": 8,
-    "image": "https://play-lh.googleusercontent.com/D4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2g3h4i=w240-h480",
+    "image": "https://images.unsplash.com/photo-1508873696983-2dfd5898f08b?w=400&h=400&fit=crop",
     "title": "Alarmy - Alarm Clock & Sleep",
     "companyName": "Delight Room Co.",
-    "description": "World's most annoying alarm app that will definitely wake you up with unique challenges.",
+    "description": "World's most annoying alarm app that will definitely wake you up.",
     "size": 56.7,
     "reviews": 892000,
     "ratingAvg": 5,
@@ -144,4 +144,3 @@
     ]
   }
 ]
-
